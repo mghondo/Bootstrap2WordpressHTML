@@ -2,7 +2,7 @@
 
 This is a static site ready to be installed into Wordpress. Please also refer to Bootstrap2WordpressFinal for the final Wordpress installed code. It will be posted shortly.
 
-This is based on Brad Hussey's Course on Udemy call 'Bootstrap to Wordpress.'
+This is based on Brad Hussey's Course on Udemy called 'Bootstrap to Wordpress.'
 
 ## Syncing Images
 
