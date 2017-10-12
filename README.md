@@ -1,6 +1,6 @@
 # Bootstrap2WordpressHTML
 
-This is a static site ready to be installed into Wordpress. Please also refer to Bootstrap2WordpressFinal for the final Wordpress installed code.
+This is a static site ready to be installed into Wordpress. Please also refer to Bootstrap2WordpressFinal for the final Wordpress installed code. It will be posted shortly.
 
 ## Syncing Images
 
